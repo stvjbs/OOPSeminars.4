@@ -1,0 +1,16 @@
+package SeminarAnimals;
+
+import java.time.LocalDate;
+import java.util.List;
+
+public class Fish extends Animal{
+    public Fish(String name, double weight, Owner owner, LocalDate birthDay, List<Vaccination> vaccinations, Color color) {
+        super(name, weight, owner, birthDay, vaccinations, color);
+    }
+
+    public Fish(String name, double weight, Owner owner, LocalDate birthDay, Color color) {
+        super(name, weight, owner, birthDay, color);
+    }
+
+
+}
