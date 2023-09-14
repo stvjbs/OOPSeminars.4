@@ -23,6 +23,8 @@ public class Main {
         mrak.fly();
         nemo.toGo();
         seva.toGo();
+        ignat.swim();
+
 
 
 
