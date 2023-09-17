@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72ed2bcc-d2af-40ce-8df9-9f17cd7ac1f5" name="Changes" comment="HomeWork2/2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clinic/Clinic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clinic/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clinic/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clinic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clinic/MedicalStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clinic/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clinic/Runable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clinic/Specialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clinic/Swimmable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Frog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Frog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Parrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Penguin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Spider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeminarAnimals/Spider.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694725870158</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HomeWork2/2">
+      <created>1694985796629</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694985796629</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
