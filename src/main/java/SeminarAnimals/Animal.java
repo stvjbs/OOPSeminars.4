@@ -100,4 +100,9 @@ public class Animal {
     public String getTYPE() {
         return TYPE;
     }
+
+    @Override
+    public String toString() {
+        return String.format("%s %s",TYPE,name);
+    }
 }
