@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72ed2bcc-d2af-40ce-8df9-9f17cd7ac1f5" name="Changes" comment="HomeWork2/3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pharmacy/Azitronitum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pharmacy/CatPharmacy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pharmacy/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pharmacy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pharmacy/Penicilium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pharmacy/Pharmacy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pharmacy/PharmacyIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pharmacy/Water.java" afterDir="false" />
+    <list default="true" id="72ed2bcc-d2af-40ce-8df9-9f17cd7ac1f5" name="Changes" comment="Seminar4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/list/ArrayIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/list/GBArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/list/GBList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/list/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GBArrayListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +50,34 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="JUnit.GBArrayListTest.addNegativeTest">
+    <configuration name="GBArrayListTest.addNegativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOPSeminars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GBArrayListTest" />
+      <option name="METHOD_NAME" value="addNegativeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GBArrayListTest.addTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOPSeminars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GBArrayListTest" />
+      <option name="METHOD_NAME" value="addTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GBArrayListTest.addNegativeTest" />
+        <item itemvalue="JUnit.GBArrayListTest.addTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694986206006</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HomeWork3">
+      <created>1695334396369</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695334396369</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +148,8 @@
     <MESSAGE value="HomeWork2" />
     <MESSAGE value="HomeWork2/2" />
     <MESSAGE value="HomeWork2/3" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork2/3" />
+    <MESSAGE value="HomeWork3" />
+    <MESSAGE value="Seminar4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar4" />
   </component>
 </project>
